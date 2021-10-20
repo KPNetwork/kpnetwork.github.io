@@ -7,6 +7,6 @@
 - Official Website of Sz Bots.
 - You can visit our [website](https://www.szbots.tech/) with [this link](https://www.szbots.tech/)
 
-Specail Thanks
+## Special Thanks
 - For hosting : Github Pages
 - For domain  : Dileepa Malshan
