@@ -8,7 +8,7 @@
  */
 
 :root {
-  --primary: #39367C;
+  --primary: #00d9A5;
   --accent: #FF3D85;
   --secondary: #4E5AFE;
   --warning: #EED818;
@@ -141,7 +141,7 @@ a.bg-dark:hover, a.bg-dark:focus {
 }
 
 .text-primary {
-  color: #39367C !important;
+  color: #00d9A5 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
